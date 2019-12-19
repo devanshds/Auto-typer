@@ -16,7 +16,7 @@ The tool makes use of Selenium to scrape data directly from the website in an au
   - Python 3.x
   
 ## Usage:
-The script is completely automated. All it needs is manually execution of the jupyter cells. Here's some steps:
+The script is completely automated. All it needs is manual execution of the jupyter cells. Here's some steps:
   - Create session in jupyter notebook from commandline
   - Open the ipynb file
   - Execute each cell one by one from top to bottom
